@@ -1,3 +1,6 @@
+
+Feature Selection with Genetic Algorithms + Decision Trees
+
 Breast Cancer Dataset (Binary Classification)
 
 More features ≠ better models.
