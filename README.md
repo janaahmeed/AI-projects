@@ -1,4 +1,4 @@
-reast Cancer Dataset (Binary Classification)
+Breast Cancer Dataset (Binary Classification)
 
 More features ≠ better models.
 
